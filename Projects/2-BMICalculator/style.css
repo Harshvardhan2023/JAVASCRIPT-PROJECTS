@@ -3,14 +3,20 @@ body {
   margin: 0px;
 }
 
+main {
+  height: calc(100vh - 60px); /* Adjust 60px if your Navigation Bar Height Changes */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .container {
-  width: 450px;
+  width: 350px;
   height: 550px;
 
   background-color: #98cef3;
   padding-left: 30px;
   border: 4px solid #212121;
-  margin: 5%;
 }
 #height,
 #weight {
