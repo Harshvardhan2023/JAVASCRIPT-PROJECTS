@@ -36,6 +36,23 @@ A fun interactive game, where the User guesses a **Randomly Generated Number**, 
 
 ---
 
+### 5️⃣ ⌨️ Keyboard Check 👻  
+**Curious about how your Keyboard Inputs are interpreted by the Browser?**  
+
+Press any Key and see the magic happen in real time!
+
+📁 [`Keyboard Check`](Projects/5-KeyBoardEvents)
+
+---
+
+### 6️⃣ 🌈 Unlimited Colours 🧠  
+**Turn your Screen into a Disco!** 🎉  
+Once you hit the **Start** button, the Background Colours changes automatically every second — creating a vibrant, dynamic effect.
+
+📁 [`Unlimited Colours`](Projects/6-UnlimitedColours)
+
+---
+
 ## **🛠️ Tech Stack**  
 - **HTML5** - Structure  
 - **CSS3** - Styling  
